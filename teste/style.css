@@ -1,0 +1,22 @@
+div {
+    background-color: rgb(126, 187, 240);
+    padding: 20px;
+    font-size: 48px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+}
+
+/* remove a “linha” criada pelo parágrafo */
+div p {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    background-color: rgba(51, 120, 233, 0.15);
+    border-radius: 15px;
+    box-shadow: 3px 3px 6px #0a0f15;
+    width: 750px;
+    margin: 30px auto;
+    padding: 20px;
+}
